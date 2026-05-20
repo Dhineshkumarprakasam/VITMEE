@@ -4,6 +4,33 @@ This respository is to help VITMEE MCA candidates. When I gave VITMEE back in 20
 On my youtube channel- Codevenger, I created few VIT MCA videos after which I got lot of messages from students who scored well in the test. Same students helped me to create this resource.
 Don't forget to check my youtube channel - https://www.youtube.com/channel/UC5iNzobJXXaqBmzJcuAzpGA
 
+# VITMEE 2026, MCA
+
+## Dhinesh kumar, Rank 15
+01. Characteristic equation of jk flip flop
+02. 2 questions on simplifying a Boolean expression
+03. 2 Questions on Minimize the Boolean function: F(A, B, C, D) = m(0, 2, 8, 10, 14)
+04. Predict the output of c program - for loop
+05. Predict the output of c program - switch case
+06. Storage type in c - register
+07. 3-4 Questions on operating system : Paging, Segmentation, Virtual memory
+08. Questions on DBMS - Keys
+09. Question on ER Diagram eg. what shape will be used to represent multi valued attributes
+10. Question on shift operators : eg. output of 2>>3
+11. DSA : Stack, Queue, Linked list, Tree : Theory and Time Complexity
+12. Addressing modes of COA : Direct, Indirect, Immediate
+13. IPv6 Address
+14. MAC Address
+15. 2-3 Questions on CN : Device and Protocols of given layer 
+16. Maths - Simple simplification of linear equation
+17. l'hospital rule base condition
+18. Differentiation of x^n
+19. English : 2-3 Questions on Subject Verb Agreement
+20. Active Voice Passive voice
+21. Direct and Indirect Speech
+22. Memo Writing
+23. Minutes of meeting
+
 # VITMEE 2022, MCA
 
 ## Bharti, Rank 132
